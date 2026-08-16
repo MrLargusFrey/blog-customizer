@@ -2,3 +2,8 @@
 	--bg-color: #ffffff;
 	background-color: var(--bg-color, #ffffff);
 }
+
+.arrowButton {
+	position: fixed;
+	z-index: 1002;
+}
