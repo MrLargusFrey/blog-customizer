@@ -48,7 +48,6 @@ export const App = () => {
 				onClose={() => setIsSidebarOpen(false)}
 				onApply={handleApply}
 				onReset={handleReset}
-				currentState={currentState}
 			/>
 			<Article />
 		</main>
